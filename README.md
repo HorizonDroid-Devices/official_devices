@@ -45,7 +45,7 @@ This file should contain every device supported by **HorizonDroid** in the given
 
 ## `team.json` Structure
 
-This file should contain every team member working on **Awaken OS** in the given format:
+This file should contain every team member working on **HorizonDroid** in the given format:
 
 ```json
 {
