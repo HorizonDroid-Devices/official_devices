@@ -23,18 +23,18 @@ This file should contain every device supported by **Awaken OS** in the given fo
 {
   "devices": [
     {
-      "codename": "beryllium",
-      "codename_alt": "beryllium",
+      "codename": "marble",
+      "codename_alt": "marble",
       "vendor": "Xiaomi",
-      "model": "Xiaomi Pocophone F1",
-      "maintainer_name": "Ninad Patil",
+      "model": "Xiaomi Poco F5",
+      "maintainer_name": "Ryzenforce and JYR_RC",
       "active": true
     },
     {
-      "codename": "cepheus",
+      "codename": "sweet",
       "vendor": "Xiaomi",
-      "model": "Xiaomi Mi 9",
-      "maintainer_name": "Sven",
+      "model": "Xiaomi Redmi Note 10 Pro",
+      "maintainer_name": "Unmoved",
       "active": true
     }
   ]
@@ -62,21 +62,21 @@ This file should contain every team member working on **Awaken OS** in the given
 {
   "team": [
     {
-      "name": "Saikiran",
+      "name": "Ryzenforce",
       "role": "Founder & Lead Developer",
       "socials": {
-        "github": "saikiran2001",
-        "telegram": "Saikiran008",
-        "xda": "saikiran001.8222620"
+        "github": "ryzenforce990",
+        "telegram": "ryzenforce",
+        "xda": "ryzenforce"
       }
     },
     {
-      "name": "Ninad Patil",
-      "role": "Lead Developer",
+      "name": "Isaiah",
+      "role": "Manager",
       "socials": {
-        "github": "PainKiller3",
-        "telegram": "Reignz3",
-        "xda": "reignz3.6549853"
+        "github": "isaiahscape",
+        "telegram": "isaiahscape",
+        "xda": "sevitches"
       }
     }
   ]
