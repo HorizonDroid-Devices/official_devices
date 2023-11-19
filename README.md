@@ -57,8 +57,7 @@ This file should contain every team member working on **HorizonDroid** in the gi
       "role": "Founder & Lead Developer",
       "socials": {
         "github": "ryzenforce990",
-        "telegram": "ryzenforce",
-        "xda": "ryzenforce"
+        "telegram": "ryzenforce"
       }
     },
     {
@@ -66,8 +65,7 @@ This file should contain every team member working on **HorizonDroid** in the gi
       "role": "Manager",
       "socials": {
         "github": "isaiahscape",
-        "telegram": "isaiahscape",
-        "xda": "sevitches"
+        "telegram": "isaiahscape"
       }
     }
   ]
