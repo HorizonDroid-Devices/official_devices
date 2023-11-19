@@ -1,87 +1,31 @@
 {
   "devices": [
     {
-      "codename": "beryllium",
+      "codename": "marble",
       "vendor": "Xiaomi",
-      "model": "Xiaomi Pocophone F1",
-      "maintainer_name": "Ninad Patil",
+      "model": "Xiaomi Poco F5/Redmi Note 12 Turbo",
+      "maintainer_name": "Ryzenforce & JYR_RC",
       "active": true
     },
     {
-      "codename": "cepheus",
+      "codename": "sweet",
       "vendor": "Xiaomi",
-      "model": "Xiaomi Mi 9",
-      "maintainer_name": "Sven",
+      "model": "Xiaomi Redmi Note 10 Pro",
+      "maintainer_name": "Unmoved",
       "active": true
     },
     {
-      "codename": "davinci",
-      "vendor": "Redmi",
-      "model": "Redmi K20",
-      "maintainer_name": "Aditya Singh",
-      "active": true
-    },
-    {
-      "codename": "lemonades",
-      "vendor": "OnePlus",
-      "model": "OnePlus 9R",
-      "maintainer_name": "Arnav Puranik",
-      "active": false
-    },
-    {
-      "codename": "lisa",
+      "codename": "alioth",
       "vendor": "Xiaomi",
-      "model": "Xiaomi 11 Lite 5G NE",
-      "maintainer_name": "Saikiran",
+      "model": "Xiaomi Poco F3",
+      "maintainer_name": "Eifal",
       "active": true
     },
     {
-      "codename": "lunaa",
-      "vendor": "realme",
-      "model": "realme GT Master Edition",
-      "maintainer_name": "Krishnakant Shedge",
-      "active": false
-    },
-    {
-      "codename": "miatoll",
+      "codename": "merlinx",
       "vendor": "Xiaomi",
-      "model": "Xiaomi POCO M2 Pro, Redmi Note 9S/Pro/Pro Max",
-      "maintainer_name": "BladeRunner-A2C",
-      "active": false
-    },
-    {
-      "codename": "nabu",
-      "vendor": "Xiaomi",
-      "model": "Xiaomi Mi Pad 5",
-      "maintainer_name": "Saikiran",
-      "active": true
-    },
-    {
-      "codename": "porsche",
-      "vendor": "realme",
-      "model": "realme GT 2",
-      "maintainer_name": "Aditya Singh",
-      "active": true
-    },
-    {
-      "codename": "raphael",
-      "vendor": "Redmi",
-      "model": "Redmi K20 Pro",
-      "maintainer_name": "Samyak Jain",
-      "active": false
-    },
-    {
-      "codename": "tundra",
-      "vendor": "Motorola",
-      "model": "Motorola Edge 30 Fusion",
-      "maintainer_name": "Raghav",
-      "active": true
-    },
-    {
-      "codename": "vayu",
-      "vendor": "Xiaomi",
-      "model": "Xiaomi POCO X3 Pro",
-      "maintainer_name": "Raghav",
+      "model": "Xiaomi Redmi Note 9",
+      "maintainer_name": "Eunbinn",
       "active": true
     }
   ]
