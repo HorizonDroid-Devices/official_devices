@@ -1,52 +1,43 @@
 {
   "team": [
     {
-      "name": "Saikiran",
+      "name": "Ryzenforce",
       "role": "Founder & Lead Developer",
       "socials": {
-        "github": "saikiran2001",
-        "telegram": "Saikiran008",
-        "xda": "saikiran001.8222620"
+        "github": "ryzeznforce990",
+        "telegram": "ryzenforce",
       }
     },
     {
-      "name": "Ninad Patil",
+      "name": "Isaiah",
+      "role": "Manager",
+      "socials": {
+        "github": "isaiahscape",
+        "telegram": "isaiahscape",
+      }
+    },
+    {
+      "name": "JYR_RC",
       "role": "Lead Developer",
       "socials": {
-        "github": "PainKiller3",
-        "telegram": "Reignz3",
-        "xda": "reignz3.6549853"
+        "github": "jyr_rc",
+        "telelgram": "jyr_rc"
       }
     },
     {
-      "name": "Wenlin Shen",
-      "role": "Lead Designer",
-      "socials": {
-        "github": "hugwalk"
-      }
-    },
-    {
-      "name": "Jagadish",
+      "name": "Endmin",
       "role": "Designer",
       "socials": {
-        "github": "Graphix-Designer"
+        "telegram": "endmin4096"
       }
     },
     {
-      "name": "Saurabh Charde",
+      "name": "Sahil",
       "role": "Web Developer",
       "socials": {
-        "github": "schardev",
-        "telegram": "saurabhcharde"
+        "telegram": "error7951"
       }
     },
-    {
-      "name": "Nabeel Asif",
-      "role": "Web Developer",
-      "socials": {
-        "github": "nabeelcodes",
-        "telegram": "nambeel"
-      }
     }
   ]
 }
