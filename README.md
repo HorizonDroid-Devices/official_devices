@@ -1,5 +1,9 @@
 # Official Devices
 
+1. [Device stability requirements](requirements.md)
+2. [Maintainer requirements](maintainerreq.md)
+3. [Maintainership form](https://docs.google.com/forms/d/e/1FAIpQLSf3Jdy915yD3BVqkTd-JwO0um5if8y-0mahjwEszqadgITaaA/viewform)
+
 This is our repo where all stuff related to official devices is stored.
 
 You also need to use this to apply for official maintainership for your device.
@@ -83,7 +87,3 @@ This file should contain every team member working on **HorizonDroid** in the gi
 | `github`   | Member's github username  | `true`     |
 | `telegram` | Member's telegram profile | `optional` |
 | `xda`      | Member's XDA profile      | `optional` |
-
-1. [Device stability requirements](requirements.md)
-2. [Maintainer requirements](maintainerreq.md)
-3. [Maintainership form](https://docs.google.com/forms/d/e/1FAIpQLSf3Jdy915yD3BVqkTd-JwO0um5if8y-0mahjwEszqadgITaaA/viewform)
