@@ -86,4 +86,4 @@ This file should contain every team member working on **Awaken OS** in the given
 
 1. [Device stability requirements](requirements.md)
 2. [Maintainer requirements](maintainerreq.md)
-3. [Maintainership form](https://github.com/Project-Awaken/official_devices/issues/new/choose)
+3. [Maintainership form](https://docs.google.com/forms/d/e/1FAIpQLSf3Jdy915yD3BVqkTd-JwO0um5if8y-0mahjwEszqadgITaaA/viewform)
