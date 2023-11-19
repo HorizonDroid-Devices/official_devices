@@ -1,4 +1,4 @@
-# To become an official maintainer for Project Awaken:
+# To become an official maintainer for HorizonDroid:
 
 **Before you apply to add your device into our list of official devices, you should know a few things:**
 
@@ -26,4 +26,4 @@
 
 If all is well, you may apply [here](https://github.com/Project-Awaken/official_devices/issues/new/choose)
 
-If you have any doubts/questions, make sure to contact the team on [Our Telegram Group](https://telegram.me/AwakenOSChat)
+If you have any doubts/questions, make sure to contact the team on [Our Telegram Group](https://telegram.me/HorizonDroidChat)
