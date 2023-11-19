@@ -16,7 +16,7 @@
 
 7. You should have some basic knowledge of reading logcats and managing most device releated errors/bugs.
 
-8. You must not maintain more than 3 ROMs including Awaken OS (applies for both official and unofficial) and also XDA threads are recommended but not mandatory.
+8. You must not maintain more than 4 ROMs including HorizonDroid (applies for both official and unofficial) and also XDA threads are recommended but not mandatory.
 
 9. You should release an unofficial build and **MUST** attach a link in the maintainership form.
 
