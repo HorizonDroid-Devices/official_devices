@@ -4,20 +4,9 @@ This is our repo where all stuff related to official devices is stored.
 
 You also need to use this to apply for official maintainership for your device.
 
-## Folder Structure
-
-Follow below folder structure before adding/modifying any data.
-
-| Directory       | Notes                                                                                                 |
-| --------------- | ----------------------------------------------------------------------------------------------------- |
-| `/changelogs`   | Device changelog goes here. See [`/changelogs/README.md`](./changelogs/README.md) for more details.   |
-| `/devices`      | Device information goes here. See [`/devices/README.md`](./devices/README.md) for more details.       |
-| `/instructions` | Flashing instructions for device.                                                                     |
-| `/images`       | Device images go here, in **PNG** format. Filename must be the device codename e.g., `beryllium.png`. |
-
 ## `devices.json` Structure
 
-This file should contain every device supported by **Awaken OS** in the given format:
+This file should contain every device supported by **HorizonDroid** in the given format:
 
 ```json
 {
