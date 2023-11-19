@@ -4,6 +4,8 @@ This is our repo where all stuff related to official devices is stored.
 
 You also need to use this to apply for official maintainership for your device.
 
+This form is is forked from @Project-Awaken
+
 ## `devices.json` Structure
 
 This file should contain every device supported by **HorizonDroid** in the given format:
